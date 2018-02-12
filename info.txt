@@ -1,0 +1,3 @@
+This is a simple Maze game with a few tricks up its sleeve. It has teleportation, puzzles, and more to mess with the player. It is made with java graphics.
+
+To run it run the MazeProgramSmall java file
